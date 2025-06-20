@@ -26,9 +26,14 @@ Or for strings,
 
 **HTTP Requests**
 
+For GET,
+
     I would like to fetch from "https://api.example.com" and store it as data.
 
+Or for POST,
+
     Kindly post to "https://api.example.com/data" with the content:
+
     {
         "name": "GPTScript"
     }
