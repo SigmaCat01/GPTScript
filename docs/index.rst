@@ -33,6 +33,7 @@ For GET,
 Or for POST,
 
     Kindly post to "https://api.example.com/data" with the content:
+
     {
         "name": "GPTScript"
     }
