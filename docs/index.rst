@@ -1,4 +1,4 @@
-Welcome to GPTScript's official Documentation
+Welcome to GPTScript
 =============================================
 
 GPTScript is a minimal scripting language that looks like polite chatbot dialogue. It supports basic features like variables, printing, functions, and HTTP requests.
