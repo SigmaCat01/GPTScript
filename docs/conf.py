@@ -1,3 +1,3 @@
 project = 'GPTScript'
 author = 'SigmaCat'
-release = '0.1.7'
+release = '0.1.8'
